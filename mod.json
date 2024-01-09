@@ -1,0 +1,9 @@
+{
+    "displayName": "No display borders",
+    "name": "ndb",
+    "author": "TheEE145",
+    "description": "mindustry mod that removes border from displays",
+    "hidden": true,
+    "version": 1.0,
+    "minGameVersion": 140
+}
